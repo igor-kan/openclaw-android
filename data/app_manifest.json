@@ -1,0 +1,5 @@
+{
+  "android_features": ["Material You Design", "Biometric Login", "Dark Mode Support", "Widget Support", "Dynamic Shortcuts", "Picture-in-Picture (PiP)", "App Shortcuts"],
+  "native_integrations": ["CameraX", "Google Play Services", "Firebase Cloud Messaging", "HealthConnect", "Wear OS Sync", "ML Kit"],
+  "permissions_required": ["Camera", "Fine Location", "Storage Read/Write", "Microphone", "Bluetooth Scan", "Body Sensors"]
+}
