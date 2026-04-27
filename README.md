@@ -370,3 +370,42 @@ Runs `openclaw update` to ensure the latest version. On completion, displays the
 ## License
 
 MIT
+
+<!-- REPO_ANALYSIS_OVERVIEW_START -->
+## Repository Analysis Snapshot
+
+Generated: 2026-04-21
+
+- Primary stack: Static HTML/CSS/JS
+- Key paths: `docs`, `scripts`, `tests`, `README.md`
+- Files scanned (capped): 46
+- Test signal: Test directories detected
+- CI workflows present: No
+- GitHub slug: igor-kan/openclaw-android
+- GitHub last push: 2026-04-15T04:36:29Z
+
+### Quick Commands
+
+Setup:
+- `No setup required (static assets)`
+
+Run:
+- `python3 -m http.server 8000`
+
+Quality:
+- `Add and run repository-specific tests`
+
+### Companion Docs
+
+- `AGENTS.md`
+- `TASKS.md`
+- `PLANNING.md`
+- `RESEARCH.md`
+- `PROJECT_BRIEF.md`
+
+### Web Research References
+
+- Origin remote: `https://github.com/igor-kan/openclaw-android.git`
+- GitHub homepage: Not set
+- `Static HTML/CSS/JS: https://developer.mozilla.org/en-US/docs/Learn_web_development`
+<!-- REPO_ANALYSIS_OVERVIEW_END -->
